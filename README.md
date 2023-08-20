@@ -1,5 +1,5 @@
 
-#[Check Out the live site!](http://crypto.miner.s3-website-us-west-1.amazonaws.com/).
+# [Check Out the live site!](http://crypto.miner.s3-website-us-west-1.amazonaws.com/).
 
 
 
