@@ -1,10 +1,10 @@
 
-[Check Out the live site!](http://crypto.miner.s3-website-us-west-1.amazonaws.com/).
+#[Check Out the live site!](http://crypto.miner.s3-website-us-west-1.amazonaws.com/).
 
 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
