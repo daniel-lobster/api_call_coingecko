@@ -1,15 +1,13 @@
 
 # [Check Out the live site!](http://crypto.miner.s3-website-us-west-1.amazonaws.com/)
 
-<http://crypto.miner.s3-website-us-west-1.amazonaws.com/>
-<a href="http://crypto.miner.s3-website-us-west-1.amazonaws.com/coins" target="_blank">Check Out the live site!</a>
-
 <br/>
 <br/>
 
-[Opens in new tab](https://external.ink?to=http://crypto.miner.s3-website-us-west-1.amazonaws.com/coins)
+# [Check Out the YouTube video!](https://www.youtube.com/watch?v=POrB4NRLgIU)
 
-
+<br/>
+<br/>
 
 
 ## Getting Started with Create React App
