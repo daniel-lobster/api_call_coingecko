@@ -1,4 +1,4 @@
-<base target="_blank">
+
 # [Check Out the live site!](http://crypto.miner.s3-website-us-west-1.amazonaws.com/)
 
 <http://crypto.miner.s3-website-us-west-1.amazonaws.com/>
@@ -6,6 +6,8 @@
 
 <br/>
 <br/>
+
+[Opens in new tab](https://external.ink?to=http://crypto.miner.s3-website-us-west-1.amazonaws.com/coins)
 
 
 
